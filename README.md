@@ -31,7 +31,7 @@
 
 ![](./stuffs/line.gif)
 <p align="center">
-<img src="./stuffs/github-contribution.svg">
+<img src="./github-contribution.svg">
 </p>
 
 <!-- ![](./stuffs/line.gif) -->
