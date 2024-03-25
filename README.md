@@ -29,14 +29,3 @@
 
 ### 🙏 Thanks for Visiting my GitHub Profile!
 
-![](./stuffs/line.gif)
-<p align="center">
-<img src="./github-contribution.svg">
-</p>
-
-<!-- ![](./stuffs/line.gif) -->
-
-[![](https://visitcount.itsvg.in/api?id=itxsahil&icon=0&color=0)](https://visitcount.itsvg.in)
-![](./stuffs/line.gif)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
