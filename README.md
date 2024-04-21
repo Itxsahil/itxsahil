@@ -19,7 +19,7 @@
 ![](./stuffs/line.gif)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=itx_soumya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=itxsahil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
