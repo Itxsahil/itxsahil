@@ -15,17 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itxsahil&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itxsahil&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-![](./stuffs/line.gif)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=itxsahil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ### 😂 Random Dev Meme -->
-<!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ### 🙏 Thanks for Visiting my GitHub Profile!
 
